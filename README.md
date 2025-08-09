@@ -34,7 +34,7 @@ A comprehensive calendar application built with React and TypeScript, featuring 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/yashumak/agenda-calendar.git
 cd calendar-app
 ```
 
