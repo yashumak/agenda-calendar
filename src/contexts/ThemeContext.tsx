@@ -5,6 +5,7 @@ interface ThemeContextType {
   toggleTheme: () => void;
 }
 
+
 const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 
 interface ThemeProviderProps {
